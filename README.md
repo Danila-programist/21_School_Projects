@@ -25,13 +25,13 @@ Skills acquired while working with projects:
 - writing the simplest bash scripts
 - writing the simplest algorithms in the C language in a structured form
 - modular work using Makefile
-- - working with data structures (singly linked list, stack, binary tree)
+- working with data structures (singly linked list, stack, binary tree)
 - working with files, including binary ones
 
 List of interesting projects:
-- the simplest implementation of long arithmetic T06
-- implementation of the simplest algorithms for finding the determinant, the inverse matrix, and the solution of SLOUGH T08
-- - implementation of stack, singly linked list, binary tree T09
+- the simplest implementation of long arithmetic 
+- implementation of the simplest algorithms for finding the determinant, the inverse matrix, and the solution of SLOUGH 
+- implementation of stack, singly linked list, binary tree 
 - the game "Pong"
 - the game "Life"
 - the simplest implementation of Polish notation
