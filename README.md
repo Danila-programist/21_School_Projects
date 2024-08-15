@@ -12,7 +12,7 @@ School 21 is a free educational programming training program launched by Sberban
 
 - Without age and experience limits: The school is open to anyone who wants to study programming, regardless of age, education or work experience.
 
-## Personal opinion
+#### Personal opinion
 
 This training format is not suitable for everyone, but in my opinion I will say that there is nothing to do in programming without the possibility of self-study, mutual assistance with friends, self-control and dedication.
 
