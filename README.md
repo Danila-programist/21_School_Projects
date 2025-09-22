@@ -1,40 +1,60 @@
-## What is "School 21" from Sberbank?
+# 🏫 School 21 
 
-School 21 is a free educational programming training program launched by Sberbank in cooperation with the French Programming School 42. This school is an unconventional learning format that focuses on practice and self-study.
+**School 21** — это бесплатная образовательная программа по программированию, запущенная Сбербанком в сотрудничестве с французской школой **École 42**.  
+Формат обучения нестандартный: он основан на практике, самообучении и peer-to-peer взаимодействии.
 
-## Features of the School 21:
+---
 
-- There are no teachers and lectures: Learning takes place through the implementation of real tasks and projects. Students learn by themselves and from each other using peer-to-peer learning methods.
+## 📌 Особенности обучения
 
-- No grade points: There are no traditional exams or grades at School 21. A student's success is assessed by their ability to solve problems and create work projects.
+- 👨‍🏫 **Нет преподавателей и лекций** — студенты учатся через выполнение реальных задач и проектов.  
+- 📝 **Нет оценок и экзаменов** — успех измеряется способностью решать задачи и создавать проекты.  
+- 🕒 **Гибкий график** — каждый выбирает, когда и сколько учиться.  
+- 🌍 **Нет ограничений по возрасту и опыту** — поступить может любой желающий.  
 
-- Flexible schedule: Students choose when and how much time they want to spend on studying.
+---
 
-- Without age and experience limits: The school is open to anyone who wants to study programming, regardless of age, education or work experience.
+## 💡 Личное мнение
 
-#### Personal opinion
+Такой формат обучения подходит не всем. Но, на мой взгляд, в программировании невозможно добиться успеха без:
 
-This training format is not suitable for everyone, but in my opinion I will say that there is nothing to do in programming without the possibility of self-study, mutual assistance with friends, self-control and dedication.
+- самостоятельного обучения,  
+- взаимопомощи,  
+- самоконтроля и дисциплины.  
 
-The school implies that the person who goes to study with them does not know how to program, but with zero knowledge
-it will be very difficult, so training is necessary to successfully complete daily tasks.
+Хотя школа и рассчитана на новичков, начинать обучение **с нуля** очень сложно — базовая подготовка заметно упрощает прохождение ежедневных заданий.
 
-In this section, I would like to demonstrate a set of just some of the difficult projects that I did on the Moscow campus of school 21 in the summer of 2024. I would like to note that the projects were made using the macOS operating system and written based on the C programming language. A limited time of two days was provided for each project.
+---
 
-#### Skills acquired while working with projects:
-- writing the simplest bash scripts
-- writing the simplest algorithms in the C language in a structured form
-- modular work using Makefile
-- working with data structures (singly linked list, stack, binary tree)
-- working with files, including binary ones
+## 🔧 Приобретённые навыки
 
-#### List of interesting projects:
-- the simplest implementation of long arithmetic 
-- implementation of the simplest algorithms for finding the determinant, the inverse matrix, and the solution of SLOUGH 
-- implementation of stack, singly linked list, binary tree 
-- the game "Pong"
-- the game "Life"
-- the simplest implementation of Polish notation
+В ходе выполнения проектов я освоил:
 
-I will also say that due to the limited project execution time, of course, it is possible
-to improve and supplement the code.
+- написание простых **bash-скриптов**;  
+- базовые **алгоритмы на языке C** в структурированной форме;  
+- **модульную работу** с использованием `Makefile`;  
+- работу с **структурами данных** (односвязный список, стек, бинарное дерево);  
+- работу с файлами, включая **бинарные**.  
+
+---
+
+## 📂 Интересные проекты
+
+На кампусе в Москве летом 2024 года я выполнил ряд проектов (каждый за ограниченное время в 2 дня).  
+Вот некоторые из них:
+
+- ➗ простейшая реализация **длинной арифметики**;  
+- 🧮 алгоритмы для нахождения **определителя**, **обратной матрицы** и решения **СЛАУ**;  
+- 📚 реализация **стека**, **односвязного списка**, **бинарного дерева**;  
+- 🏓 игра **Pong**;  
+- 🌱 игра **Life** (Жизнь Конвея);  
+- 🔢 простейшая реализация **обратной польской нотации**.  
+
+---
+
+## 🚀 Итоги
+
+Проекты выполнялись в условиях жёсткого дедлайна (1 день), поэтому многие решения можно улучшать и расширять.  
+Тем не менее, этот опыт позволил получить ценные практические навыки и уверенность в работе с языком **C** и системой **macOS**.
+
+---
